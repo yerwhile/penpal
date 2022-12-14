@@ -1,0 +1,58 @@
+{
+  "requests": [
+    {
+      "author": "Benny Profane",
+      "letter": "test",
+      "authorEmail": "bp@pynchon.com",
+      "topic": "Business",
+      "recipient": "Roger Mexico",
+      "recipientEmail": "rm@pynchon.com",
+      "date": "Mon Dec 12 2022 13:28:28 GMT-0600 (Central Standard Time)",
+      "id": 1
+    },
+    {
+      "author": "Rachel Owlglass",
+      "letter": "test2",
+      "authorEmail": "ro@pynchon.com",
+      "topic": "Business",
+      "recipient": "Roger Mexico",
+      "recipientEmail": "rm@pynchon.com",
+      "date": "Mon Dec 12 2022 13:51:18 GMT-0600 (Central Standard Time)",
+      "id": 2
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Benny Profane",
+      "email": "bp@pynchon.com"
+    },
+    {
+      "id": 2,
+      "name": "Rachel Owlglass",
+      "email": "ro@pynchon.com"
+    },
+    {
+      "id": 3,
+      "name": "Roger Mexico",
+      "email": "rm@pynchon.com"
+    }
+  ],
+  "recipients": [
+    {
+      "id": 1,
+      "name": "Benny Profane",
+      "email": "bp@pynchon.com"
+    },
+    {
+      "id": 2,
+      "name": "Rachel Owlglass",
+      "email": "ro@pynchon.com"
+    },
+    {
+      "id": 3,
+      "name": "Roger Mexico",
+      "email": "rm@pynchon.com"
+    }
+  ]
+}
